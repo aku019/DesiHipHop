@@ -1,6 +1,6 @@
 # DesiHipHop
 
-Hey, It's a quiz based upon DesiHipHop.
+Hey, It's a CLI quiz based upon DesiHipHop.
 
 You can play it here- https://repl.it/@AsishUpadhyay/DesiHipHop?lite=1&outputonly=1
 
